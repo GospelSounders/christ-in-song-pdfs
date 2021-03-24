@@ -13,8 +13,12 @@ for file in $(ls "$SOURCE_DIR" |grep '.html$'); do
         echo "$file exists."
     else
         ./removeImages.js "htmlFiles/$file" "htmlFilesNoImages/$file"
-        git add .
-        git commit -m "$file"
-        GIT_SSH_COMMAND='ssh -i /tmp/gitkey -o IdentitiesOnly=yes' git push origin master
+       # git add .
+       # git commit -m "$file"
+       # GIT_SSH_COMMAND='ssh -i /tmp/gitkey -o IdentitiesOnly=yes' git push origin master
     fi
 done
+
+git add .
+git commit -m "removed images"
+GIT_SSH_COMMAND='ssh -i /tmp/gitkey -o IdentitiesOnly=yes' git push origin master
