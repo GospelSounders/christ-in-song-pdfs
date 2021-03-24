@@ -14,9 +14,9 @@ for file in $(ls "$CWD/splitFiles"); do
         pdf2htmlEX "$file"
         mv "$filename.html" ../htmlFiles/
         cd .. 
-        git add .
-        git commit -m "html file $file"
-        git push origin master
+        # git add .
+        # git commit -m "html file $file"
+        # git push origin master
     fi
 done
 git add .
