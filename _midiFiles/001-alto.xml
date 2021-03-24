@@ -1,0 +1,1185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 2.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="2.0">
+	<work>
+		<work-title>1. Before Jehovah's Awful Throne
+L.M</work-title>
+	</work>
+	<identification>
+		<creator type="composer">John Hatton (d. 1793)</creator>
+		<creator type="poet">Isaac Watts (1674-1748)</creator>
+		<encoding>
+			<software>PDFtoMusic Pro v1.6.5 Build 1B9E7 (c) Myriad - http://www.myriad-online.com</software>
+			<?PDFtoMusic Document type 0100- 31306BFA?>
+			<supports attribute="new-system" element="print" type="yes" value="yes"/>
+			<supports attribute="new-page" element="print" type="yes" value="yes"/>
+		</encoding>
+	</identification>
+	<defaults>
+		<scaling>
+			<millimeters>7.027905</millimeters>
+			<tenths>40</tenths>
+		</scaling>
+		<page-layout>
+			<page-height>1688.617</page-height>
+			<page-width>1194.682</page-width>
+			<page-margins type="both">
+				<left-margin>56.916</left-margin>
+				<right-margin>56.916</right-margin>
+				<top-margin>56.916</top-margin>
+				 <bottom-margin>56.916</bottom-margin>
+			</page-margins>
+		</page-layout>
+		<appearance>
+			<line-width type="stem">0.5001</line-width>
+			<line-width type="staff">1.0002</line-width>
+			<line-width type="light barline">1.7323</line-width>
+			<line-width type="leger">2.0004</line-width>
+		</appearance>
+	</defaults>
+	<credit page="1">
+		<credit-words  default-x="63.063" default-y="1554.597" justify="left" valign="baseline" font-family="CenturySchL" font-size="11" font-weight="normal" font-style="normal">Isaac Watts (1674-1748)</credit-words>
+	</credit>
+	<credit page="1">
+		<credit-words  default-x="591.467" default-y="1624.610" justify="center" valign="baseline" font-family="CenturySchL" font-size="17" font-weight="bold" font-style="normal">1. Before Jehovah's Awful Throne
+</credit-words>
+		<credit-words   justify="center" valign="baseline" font-family="CenturySchL" font-size="12" font-weight="bold" font-style="normal">L.M</credit-words>
+	</credit>
+	<credit page="1">
+		<credit-words  default-x="909.518" default-y="1554.597" justify="left" valign="baseline" font-family="CenturySchL" font-size="11" font-weight="normal" font-style="normal">John Hatton (d. 1793)</credit-words>
+	</credit>
+	<part-list>
+		<score-part id="P1">
+			<part-name></part-name>
+			<score-instrument id="P1-I1">
+				<instrument-name>Instrument 1</instrument-name>
+			</score-instrument>
+			<midi-instrument id="P1-I1">
+				<midi-channel>1</midi-channel>
+				<midi-bank>1</midi-bank>
+				<midi-program>53</midi-program>
+				<volume>50</volume>
+				<pan>0</pan>
+				<elevation>0</elevation>
+				<?Myriad
+				<iddigit>5201</iddigit>
+				?>
+			</midi-instrument>
+		</score-part>
+	</part-list>
+	<part id="P1">
+		<!--==========================[1,1]=============================-->
+		<measure number="1" width="379">
+			<print new-page="yes">
+				<system-layout>
+					<system-margins>
+						<left-margin>85.374</left-margin>
+						<right-margin>0.000</right-margin>
+					</system-margins>
+					<top-system-distance>125.051</top-system-distance>
+				</system-layout>
+			</print>
+			<barline location="left">
+				<repeat direction="forward"/>
+			</barline>
+			<attributes>
+				<divisions>6720</divisions>
+				<key>
+					<fifths>2</fifths>
+					<mode>major</mode>
+				</key>
+				<time symbol="common">
+					<beats>4</beats>
+					<beat-type>4</beat-type>
+				</time>
+				<clef number="1">
+					<sign>G</sign>
+					<line>2</line>
+				</clef>
+				<staff-details number="1" print-object="yes">
+					<staff-lines>5</staff-lines>
+					<staff-size>99.99</staff-size>
+				</staff-details>
+			</attributes>
+			<direction placement="above">
+				<direction-type>
+					<words font-family="CenturySchL" font-size="11" font-weight="normal" font-style="normal" relative-x="76.21" default-y="13.29"></words>
+				</direction-type>
+				<direction-type>
+					<metronome font-family="CenturySchL" font-size="11" font-weight="normal" font-style="normal" relative-x="146.88" default-y="13.29">
+						<beat-unit>quarter</beat-unit>
+						<per-minute>109</per-minute>
+					</metronome>
+				</direction-type>
+				<sound tempo="109.00"/>
+			</direction>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>13440</duration>
+				<voice>1</voice>
+				<type>half</type>
+				<stem default-y="-70.11">down</stem>
+				<lyric number="1" justify="right" default-y="-98.62">
+					<syllabic>begin</syllabic>
+					<text font-family="CenturySchL" font-size="11" font-weight="bold" font-style="normal" xml:lang="en">
+1.Be</text>
+				</lyric>
+				<lyric number="2" justify="right" default-y="-126.63">
+					<syllabic>end</syllabic>
+					<text font-family="CenturySchL" font-size="11" font-weight="bold" font-style="normal" xml:lang="en">
+2.His</text>
+				</lyric>
+				<lyric number="3" justify="right" default-y="-154.64">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="11" font-weight="bold" font-style="normal" xml:lang="en">
+3.We'll</text>
+				</lyric>
+				<lyric number="4" justify="right" default-y="-182.78">
+					<syllabic>single</syllabic>
+					<text font-family="Arial" font-size="10" font-weight="normal" font-style="normal" xml:lang="en">c4.Wide</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>6720</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem default-y="-70.11">down</stem>
+				<lyric number="1" justify="center" default-y="-98.62">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">fore</text>
+				</lyric>
+				<lyric number="2" justify="center" default-y="-126.63">
+					<syllabic>begin</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">sov</text>
+				</lyric>
+				<lyric number="3" justify="center" default-y="-154.64">
+					<syllabic>end</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">crowd</text>
+				</lyric>
+				<lyric number="4" justify="center" default-y="-182.65">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">as</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>6720</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem default-y="-75.11">down</stem>
+				<lyric number="1" justify="center" default-y="-98.62">
+					<syllabic>begin</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">Je</text>
+				</lyric>
+				<lyric number="2" justify="center" default-y="-126.63">
+					<syllabic>end</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">ereign</text>
+				</lyric>
+				<lyric number="3" justify="center" default-y="-154.64">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">His</text>
+				</lyric>
+				<lyric number="4" justify="center" default-y="-182.65">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">the</text>
+				</lyric>
+			</note>
+		</measure>
+		<!--==========================[1,2]=============================-->
+		<measure number="2" width="171">
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>13440</duration>
+				<voice>1</voice>
+				<type>half</type>
+				<stem default-y="-70.11">down</stem>
+				<lyric number="1" justify="center" default-y="-98.62">
+					<syllabic>begin</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">ho</text>
+				</lyric>
+				<lyric number="2" justify="center" default-y="-126.63">
+					<syllabic>end</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">power,</text>
+				</lyric>
+				<lyric number="3" justify="center" default-y="-154.64">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">gates</text>
+				</lyric>
+				<lyric number="4" justify="center" default-y="-182.65">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">world</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>6720</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem default-y="-70.11">down</stem>
+				<notations>
+					<slur type="start" number="1" placement="below" orientation="under"/>
+				</notations>
+				<lyric number="1" justify="left" default-y="-98.62">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">vah's</text>
+				</lyric>
+				<lyric number="2" justify="left" default-y="-126.63">
+					<syllabic>begin</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">with</text>
+				</lyric>
+				<lyric number="3" justify="left" default-y="-154.64">
+					<syllabic>end</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">with</text>
+				</lyric>
+				<lyric number="4" justify="center" default-y="-182.65">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">is</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>6720</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem default-y="-66.78">down</stem>
+				<notations>
+					<slur type="stop" number="1"/>
+				</notations>
+				<lyric number="1" justify="left" default-y="-154.64">
+					<syllabic>begin</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">thank</text>
+				</lyric>
+			</note>
+		</measure>
+		<!--==========================[1,3]=============================-->
+		<measure number="3" width="156">
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>13440</duration>
+				<voice>1</voice>
+				<type>half</type>
+				<stem default-y="-63.44">down</stem>
+				<lyric number="1" justify="center" default-y="-98.62">
+					<syllabic>middle</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">aw</text>
+				</lyric>
+				<lyric number="2" justify="center" default-y="-126.63">
+					<syllabic>end</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">out</text>
+				</lyric>
+				<lyric number="4" justify="center" default-y="-182.65">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">
+His</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>6720</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem default-y="-66.78">down</stem>
+				<notations>
+					<slur type="start" number="1" placement="below" orientation="under"/>
+				</notations>
+				<lyric number="1" justify="left" default-y="-98.62">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">ful</text>
+				</lyric>
+				<lyric number="2" justify="left" default-y="-126.63">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">our</text>
+				</lyric>
+				<lyric number="3" justify="left" default-y="-154.64">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">ful</text>
+				</lyric>
+				<lyric number="4" justify="left" default-y="-182.65">
+					<syllabic>begin</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">com</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>6720</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem default-y="-70.11">down</stem>
+				<notations>
+					<slur type="stop" number="1"/>
+				</notations>
+			</note>
+		</measure>
+		<!--==========================[1,4]=============================-->
+		<measure number="4" width="103">
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>26880</duration>
+				<voice>1</voice>
+				<type>whole</type>
+				<stem>none</stem>
+				<lyric number="1" justify="center" default-y="-98.62">
+					<syllabic>end</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">throne,</text>
+				</lyric>
+				<lyric number="2" justify="center" default-y="-126.63">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">aid,</text>
+				</lyric>
+				<lyric number="3" justify="center" default-y="-154.64">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">songs,</text>
+				</lyric>
+				<lyric number="4" justify="center" default-y="-182.65">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">mand,</text>
+				</lyric>
+			</note>
+		</measure>
+		<!--==========================[1,5]=============================-->
+		<measure number="5" width="185">
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>13440</duration>
+				<voice>1</voice>
+				<type>half</type>
+				<stem default-y="-70.11">down</stem>
+				<lyric number="1" justify="center" default-y="-98.62">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">Ye</text>
+				</lyric>
+				<lyric number="2" justify="center" default-y="-126.63">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">Made</text>
+				</lyric>
+				<lyric number="3" justify="center" default-y="-154.64">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">High</text>
+				</lyric>
+				<lyric number="4" justify="center" default-y="-182.65">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">Vast</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>6720</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem default-y="-70.11">down</stem>
+				<lyric number="1" justify="center" default-y="-98.62">
+					<syllabic>begin</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">na</text>
+				</lyric>
+				<lyric number="2" justify="center" default-y="-126.63">
+					<syllabic>end</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">us</text>
+				</lyric>
+				<lyric number="3" justify="center" default-y="-154.64">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">as</text>
+				</lyric>
+				<lyric number="4" justify="center" default-y="-182.65">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">as</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>6720</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem default-y="-70.11">down</stem>
+				<lyric number="1" justify="center" default-y="-98.62">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">tions,</text>
+				</lyric>
+				<lyric number="2" justify="center" default-y="-126.63">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">of</text>
+				</lyric>
+				<lyric number="3" justify="center" default-y="-154.64">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">the</text>
+				</lyric>
+				<lyric number="4" justify="center" default-y="-182.65">
+					<syllabic>begin</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">
+E</text>
+				</lyric>
+			</note>
+		</measure>
+		<!--==========================[1,6]=============================-->
+		<measure number="6" width="270">
+			<print new-system="yes">
+				<system-layout>
+					<system-margins>
+						<left-margin>0.001</left-margin>
+						<right-margin>0.000</right-margin>
+					</system-margins>
+					<system-distance>242.161</system-distance>
+				</system-layout>
+			</print>
+			<attributes>
+				<staff-details number="1" print-object="yes">
+				</staff-details>
+			</attributes>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>13440</duration>
+				<voice>1</voice>
+				<type>half</type>
+				<stem default-y="-70.11">down</stem>
+				<lyric number="1" justify="center" default-y="-108.80">
+					<syllabic>end</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">bow</text>
+				</lyric>
+				<lyric number="2" justify="center" default-y="-136.81">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">clay,</text>
+				</lyric>
+				<lyric number="3" justify="center" default-y="-164.82">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">heavens</text>
+				</lyric>
+				<lyric number="4" justify="center" default-y="-192.83">
+					<syllabic>begin</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">ter</text>
+				</lyric>
+			</note>
+			<attributes>
+				<clef number="1">
+					<sign>F</sign>
+					<line>4</line>
+				</clef>
+			</attributes>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>2</octave>
+				</pitch>
+				<duration>6720</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem default-y="-70.11">down</stem>
+				<notations>
+					<slur type="start" number="1" placement="below" orientation="under"/>
+				</notations>
+				<lyric number="1" justify="left" default-y="-108.80">
+					<syllabic>end</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">with</text>
+				</lyric>
+				<lyric number="2" justify="left" default-y="-136.81">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">and</text>
+				</lyric>
+				<lyric number="3" justify="left" default-y="-164.82">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">our</text>
+				</lyric>
+				<lyric number="4" justify="left" default-y="-192.83">
+					<syllabic>begin</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">ni</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>2</octave>
+				</pitch>
+				<duration>6720</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem default-y="-85.12">down</stem>
+				<notations>
+					<slur type="stop" number="1"/>
+				</notations>
+			</note>
+		</measure>
+		<!--==========================[1,7]=============================-->
+		<measure number="7" width="214">
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>6720</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem default-y="-80.12">down</stem>
+				<notations>
+					<slur type="start" number="1" placement="below" orientation="under"/>
+				</notations>
+				<lyric number="1" justify="left" default-y="-108.80">
+					<syllabic>middle</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">sa</text>
+				</lyric>
+				<lyric number="2" justify="left" default-y="-136.81">
+					<syllabic>end</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">formed</text>
+				</lyric>
+				<lyric number="3" justify="left" default-y="-164.82">
+					<syllabic>begin</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">voi</text>
+				</lyric>
+				<lyric number="4" justify="center" default-y="-192.83">
+					<syllabic>end</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">ty</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>6720</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem default-y="-75.11">down</stem>
+				<notations>
+					<slur type="stop" number="1"/>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>2</octave>
+				</pitch>
+				<duration>13440</duration>
+				<voice>1</voice>
+				<type>half</type>
+				<stem default-y="-70.11">down</stem>
+				<lyric number="1" justify="center" default-y="-108.80">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">cred</text>
+				</lyric>
+				<lyric number="2" justify="center" default-y="-136.81">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">us</text>
+				</lyric>
+				<lyric number="3" justify="center" default-y="-164.82">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">ces</text>
+				</lyric>
+				<lyric number="4" justify="center" default-y="-192.83">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">
+His</text>
+				</lyric>
+			</note>
+		</measure>
+		<!--==========================[1,8]=============================-->
+		<measure number="8" width="128">
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>2</octave>
+				</pitch>
+				<duration>26880</duration>
+				<voice>1</voice>
+				<type>whole</type>
+				<stem>none</stem>
+				<lyric number="1" justify="center" default-y="-108.80">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">joy;</text>
+				</lyric>
+				<lyric number="2" justify="center" default-y="-136.81">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">men;</text>
+				</lyric>
+				<lyric number="3" justify="center" default-y="-164.82">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">raise;</text>
+				</lyric>
+				<lyric number="4" justify="center" default-y="-192.83">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">love;</text>
+				</lyric>
+			</note>
+		</measure>
+		<!--==========================[1,9]=============================-->
+		<measure number="9" width="238">
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>2</octave>
+				</pitch>
+				<duration>13440</duration>
+				<voice>1</voice>
+				<type>half</type>
+				<stem default-y="-70.11">down</stem>
+				<lyric number="1" justify="center" default-y="-108.80">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">Know</text>
+				</lyric>
+				<lyric number="2" justify="center" default-y="-136.81">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">And</text>
+				</lyric>
+				<lyric number="3" justify="center" default-y="-164.82">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">And</text>
+				</lyric>
+				<lyric number="4" justify="center" default-y="-192.83">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">Firm</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>2</octave>
+				</pitch>
+				<duration>6720</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem default-y="-70.11">down</stem>
+				<lyric number="1" justify="center" default-y="-108.80">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">that</text>
+				</lyric>
+				<lyric number="2" justify="center" default-y="-136.81">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">when</text>
+				</lyric>
+				<lyric number="3" justify="center" default-y="-164.82">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">earth,</text>
+				</lyric>
+				<lyric number="4" justify="center" default-y="-192.83">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">as</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>2</octave>
+				</pitch>
+				<duration>6720</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem default-y="-85.12">down</stem>
+				<lyric number="1" justify="center" default-y="-108.80">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">the</text>
+				</lyric>
+				<lyric number="2" justify="center" default-y="-136.81">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">like</text>
+				</lyric>
+				<lyric number="3" justify="center" default-y="-164.82">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">with</text>
+				</lyric>
+				<lyric number="4" justify="center" default-y="-192.83">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">anaa</text>
+				</lyric>
+			</note>
+		</measure>
+		<!--==========================[1,10]=============================-->
+		<measure number="10" width="229">
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>2</octave>
+				</pitch>
+				<duration>6720</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem default-y="-85.12">down</stem>
+				<notations>
+					<slur type="start" number="1" placement="below" orientation="under"/>
+				</notations>
+				<lyric number="1" justify="left" default-y="-108.80">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">
+Lord</text>
+				</lyric>
+				<lyric number="2" justify="left" default-y="-136.81">
+					<syllabic>begin</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">wan</text>
+				</lyric>
+				<lyric number="3" justify="left" default-y="-164.82">
+					<syllabic>end</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">her</text>
+				</lyric>
+				<lyric number="4" justify="left" default-y="-192.83">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">rock</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>2</octave>
+				</pitch>
+				<duration>6720</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem default-y="-70.11">down</stem>
+				<notations>
+					<slur type="stop" number="1"/>
+				</notations>
+				<lyric number="2" justify="left" default-y="-136.81">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">ndering</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>2</octave>
+				</pitch>
+				<duration>13440</duration>
+				<voice>1</voice>
+				<type>half</type>
+				<stem default-y="-70.11">down</stem>
+				<lyric number="1" justify="center" default-y="-108.80">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">is</text>
+				</lyric>
+				<lyric number="3" justify="center" default-y="-164.82">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">ten</text>
+				</lyric>
+				<lyric number="4" justify="center" default-y="-192.83">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">His</text>
+				</lyric>
+			</note>
+		</measure>
+		<!--==========================[1,11]=============================-->
+		<measure number="11" width="251">
+			<print new-system="yes">
+				<system-layout>
+					<system-margins>
+						<left-margin>0.001</left-margin>
+						<right-margin>0.000</right-margin>
+					</system-margins>
+					<system-distance>167.938</system-distance>
+				</system-layout>
+			</print>
+			<attributes>
+				<clef number="1">
+					<sign>G</sign>
+					<line>2</line>
+				</clef>
+				<staff-details number="1" print-object="yes">
+				</staff-details>
+			</attributes>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>13440</duration>
+				<voice>1</voice>
+				<type>half</type>
+				<stem default-y="-70.10">down</stem>
+				<lyric number="1" justify="center" default-y="-99.25">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">God</text>
+				</lyric>
+				<lyric number="2" justify="center" default-y="-127.25">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">sheep</text>
+				</lyric>
+				<lyric number="3" justify="center" default-y="-155.25">
+					<syllabic>begin</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">thou</text>
+				</lyric>
+				<lyric number="4" justify="center" default-y="-183.25">
+					<syllabic>end</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">truth</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>6720</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem default-y="-75.10">down</stem>
+				<notations>
+					<slur type="start" number="1" placement="below" orientation="under"/>
+				</notations>
+				<lyric number="1" justify="center" default-y="-99.25">
+					<syllabic>begin</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">a</text>
+				</lyric>
+				<lyric number="2" justify="left" default-y="-127.25">
+					<syllabic>end</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">we</text>
+				</lyric>
+				<lyric number="3" justify="left" default-y="-155.25">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">sand</text>
+				</lyric>
+				<lyric number="4" justify="left" default-y="-183.25">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">shall</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>6720</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem default-y="-70.10">down</stem>
+				<notations>
+					<slur type="stop" number="1"/>
+				</notations>
+				<lyric number="1" justify="left" default-y="-155.25">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">tongues,</text>
+				</lyric>
+			</note>
+		</measure>
+		<!--==========================[1,12]=============================-->
+		<measure number="12" width="127">
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>26880</duration>
+				<voice>1</voice>
+				<type>whole</type>
+				<stem>none</stem>
+				<lyric number="1" justify="center" default-y="-99.25">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">lone;</text>
+				</lyric>
+				<lyric number="2" justify="center" default-y="-127.25">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">strayed,</text>
+				</lyric>
+				<lyric number="4" justify="center" default-y="-183.26">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">stand,</text>
+				</lyric>
+			</note>
+		</measure>
+		<!--==========================[1,13]=============================-->
+		<measure number="13" width="217">
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>13440</duration>
+				<voice>1</voice>
+				<type>half</type>
+				<stem default-y="-70.10">down</stem>
+				<lyric number="1" justify="center" default-y="-99.25">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">
+He</text>
+				</lyric>
+				<lyric number="2" justify="center" default-y="-127.25">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">
+He</text>
+				</lyric>
+				<lyric number="3" justify="center" default-y="-155.25">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">
+Shall</text>
+				</lyric>
+				<lyric number="4" justify="center" default-y="-183.25">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">
+When</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>6720</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem default-y="-70.10">down</stem>
+				<lyric number="1" justify="center" default-y="-99.25">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">can</text>
+				</lyric>
+				<lyric number="2" justify="center" default-y="-127.25">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">brought</text>
+				</lyric>
+				<lyric number="3" justify="center" default-y="-155.25">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">fill</text>
+				</lyric>
+				<lyric number="4" justify="center" default-y="-183.25">
+					<syllabic>begin</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">ro</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>6720</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem default-y="-66.77">down</stem>
+				<lyric number="1" justify="center" default-y="-99.25">
+					<syllabic>middle</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">cre</text>
+				</lyric>
+				<lyric number="2" justify="center" default-y="-127.25">
+					<syllabic>end</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">us</text>
+				</lyric>
+				<lyric number="3" justify="center" default-y="-155.25">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">His</text>
+				</lyric>
+				<lyric number="4" justify="center" default-y="-183.25">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">lling</text>
+				</lyric>
+			</note>
+		</measure>
+		<!--==========================[1,14]=============================-->
+		<measure number="14" width="205">
+			<note>
+				<pitch>
+					<step>F</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>10080</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<dot/>
+				<stem default-y="-63.43">down</stem>
+				<notations>
+					<slur type="start" number="1" placement="below" orientation="under"/>
+				</notations>
+				<lyric number="1" justify="left" default-y="-99.25">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">ate,</text>
+				</lyric>
+				<lyric number="2" justify="center" default-y="-127.25">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">to</text>
+				</lyric>
+				<lyric number="3" justify="left" default-y="-155.25">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">courts</text>
+				</lyric>
+				<lyric number="4" justify="left" default-y="-183.25">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">years</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="-70.10">down</stem>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>6720</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem default-y="-70.10">down</stem>
+				<notations>
+					<slur type="stop" number="1"/>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>6720</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem default-y="-66.77">down</stem>
+				<lyric number="1" justify="center" default-y="-99.25">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">and</text>
+				</lyric>
+				<lyric number="2" justify="center" default-y="-127.25">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">
+His</text>
+				</lyric>
+				<lyric number="3" justify="center" default-y="-155.25">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">with</text>
+				</lyric>
+				<lyric number="4" justify="center" default-y="-183.25">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">shall</text>
+				</lyric>
+			</note>
+		</measure>
+		<!--==========================[1,15]=============================-->
+		<measure number="15" width="163">
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>13440</duration>
+				<voice>1</voice>
+				<type>half</type>
+				<stem default-y="-70.10">down</stem>
+				<lyric number="1" justify="center" default-y="-99.25">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">He</text>
+				</lyric>
+				<lyric number="2" justify="center" default-y="-127.25">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">fold</text>
+				</lyric>
+				<lyric number="3" justify="center" default-y="-155.25">
+					<syllabic>begin</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">sound</text>
+				</lyric>
+				<lyric number="4" justify="center" default-y="-183.25">
+					<syllabic>end</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">cease</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>13440</duration>
+				<voice>1</voice>
+				<type>half</type>
+				<stem default-y="-75.10">down</stem>
+				<lyric number="1" justify="center" default-y="-99.25">
+					<syllabic>begin</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">de</text>
+				</lyric>
+				<lyric number="2" justify="center" default-y="-127.25">
+					<syllabic>middle</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">a</text>
+				</lyric>
+				<lyric number="3" justify="center" default-y="-155.25">
+					<syllabic>end</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">ing</text>
+				</lyric>
+				<lyric number="4" justify="center" default-y="-183.25">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">to</text>
+				</lyric>
+			</note>
+		</measure>
+		<!--==========================[1,16]=============================-->
+		<measure number="16" width="115">
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>26880</duration>
+				<voice>1</voice>
+				<type>whole</type>
+				<stem>none</stem>
+				<lyric number="1" justify="center" default-y="-99.25">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">stroy.</text>
+				</lyric>
+				<lyric number="2" justify="center" default-y="-127.25">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">gain.</text>
+				</lyric>
+				<lyric number="3" justify="center" default-y="-155.25">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">praise.</text>
+				</lyric>
+				<lyric number="4" justify="center" default-y="-183.25">
+					<syllabic>single</syllabic>
+					<text font-family="CenturySchL" font-size="12" font-weight="normal" font-style="normal" xml:lang="en">move.</text>
+				</lyric>
+			</note>
+			<barline location="right">
+				<repeat direction="backward" times="4"/>
+			</barline>
+		</measure>
+	</part>
+</score-partwise>
