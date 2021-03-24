@@ -21,4 +21,5 @@ for file in $(ls "$CWD/splitFiles"); do
 done
 git add .
 git commit -m "html files"
-git push origin master
+# git push origin master
+GIT_SSH_COMMAND='ssh -i /tmp/gitkey -o IdentitiesOnly=yes' git push origin master
